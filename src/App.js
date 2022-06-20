@@ -1,7 +1,10 @@
+// import pages
+import AboutSection from './components/AboutSection';
+
 function App() {
   return (
     <div className="App">
-      <h1>Capture</h1>
+      <AboutSection />
     </div>
   );
 }
